@@ -15,7 +15,7 @@ Note that evaluation firmware provided in this repository uses a fixed and publi
 
 The Smart City Mesh Root Firmware Core communicates to other Mesh Nodes within range of its Sub-GHz radio using an advanced IoT mesh network system called 6LoWPAN.  The Mesh Root also connects to the regular internet using a traditional Ethernet "backhaul" communication link.  Packets are transparently forwarded between the two interfaces.  A Mesh Root need only be within range of one Mesh Node.  The Mesh Root will formward packets to one or more Mesh Nodes.  The Mesh Nodes will continue to propagate the packet until the destination is found. 
 
-## Why Use Devices With Mesh Root Firmware Cores?
+## Why Build Devices With Mesh Root Firmware Cores?
 
-You can build your network out quickly with the long range Sub-GHz radio technology, and each device is easily accessed using standard internet protocols. Compared to competing mesh network technologies, the Smart City Mesh Root Firmware Core offers best-in-class power consumption, security and range.  With this system you can eliminate the use of cellular communication technology's cost, complexity and high power consumption.
+You can build a network out quickly with the long range Sub-GHz radio technology, and each device is easily accessed using standard internet protocols. Compared to competing mesh network technologies, the Smart City Mesh Root Firmware Core offers best-in-class power consumption, security and range.  With this system you can eliminate the use of cellular communication technology's cost, complexity and high power consumption.
 
